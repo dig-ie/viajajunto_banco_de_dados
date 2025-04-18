@@ -9,6 +9,8 @@ Este repositório contém a modelagem do banco de dados do aplicativo **ViajaJun
 - Dados de exemplo para popular o banco
 - Descrição dos modelos e relacionamentos
 
+![image](https://github.com/user-attachments/assets/b7246f7f-c588-4235-ade9-13fce0691ab8)
+
 ## 🛠 Tecnologias
 
 - MySQL
