@@ -11,6 +11,12 @@ Este repositório contém a modelagem do banco de dados do aplicativo **ViajaJun
 
 ![image](https://github.com/user-attachments/assets/b7246f7f-c588-4235-ade9-13fce0691ab8)
 
+## 🧠 Este repositório contém:
+- Modelagem relacional do banco de dados (MySQL)
+- Scripts DDL para criação de tabelas
+- Scripts de seed DML para dados iniciais
+- Diagrama ER e descrição das entidades
+
 ## 🛠 Tecnologias
 
 - MySQL
