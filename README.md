@@ -25,3 +25,7 @@ Este repositório contém a modelagem do banco de dados do aplicativo **ViajaJun
 1. Clone o projeto:
    ```bash
    git clone https://github.com/seu-usuario/viajajunto-database.git
+
+2. Importe o arquivo sql/schema.sql no MySQL Workbench
+
+3. (Opcional) Execute sql/seed.sql para popular com dados fictícios
